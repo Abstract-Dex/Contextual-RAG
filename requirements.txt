@@ -1,0 +1,7 @@
+numpy
+streamlit
+chromadb
+sentence-transformers
+langchain
+langchain-openai
+bm25
